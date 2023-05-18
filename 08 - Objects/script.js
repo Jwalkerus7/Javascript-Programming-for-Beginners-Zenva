@@ -19,7 +19,7 @@ console.log(player);
 player.health = 100;
 console.log(player);
 
-delete player.health; // Becareful using delete, could cause errors
+delete player.health; /// Becareful using delete, could cause errors
 console.log(player);
 
 console.log(player.outfit.cost);
