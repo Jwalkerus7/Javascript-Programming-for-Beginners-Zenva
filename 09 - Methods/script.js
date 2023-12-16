@@ -13,7 +13,7 @@ let player = {
     // eatCandy: function() {
     //     this.health -= 5;
     //     this.fun += 5;
-    // },,
+    // },
     play: function() {
         this.fun += 10;
     },
