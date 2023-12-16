@@ -12,6 +12,6 @@
 // else {
 //     console.log('ship crashes');
 
-// }
+// },
 
 
