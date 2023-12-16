@@ -10,7 +10,7 @@ let a = hourToMinutes(10);
 let b = hourToMinutes(20);
 // Can call here outside of block or inside block as shown above. Can do both at the same time
 // console.log(a);
-// console.log(b);
+// console.log(b);;
 
 let dayToHours = function(days) {
     return days * 24
