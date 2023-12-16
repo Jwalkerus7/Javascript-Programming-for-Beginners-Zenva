@@ -23,7 +23,7 @@ else{
 let isEngine = item == 'engine';
 console.log(isEngine);
 
-//Chanllenge
+//Chanllenge.
 let balance = 100;
 let itemPrice = 10;
 
