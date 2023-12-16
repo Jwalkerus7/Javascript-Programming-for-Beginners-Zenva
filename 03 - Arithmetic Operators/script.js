@@ -10,7 +10,7 @@ console.log(c);
 b += 1;
 console.log(b);
 
-// subtraction
+// subtraction.
 let x = 10 - 5;
 console.log(x);
 
