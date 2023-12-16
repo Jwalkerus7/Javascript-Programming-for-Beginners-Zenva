@@ -8,7 +8,7 @@ while(i < 1000) {
     sendSignal();
     //i = i + 1;
     //i += 1;
-    //console.log('HELP!')
+    //console.log('HELP!'),
     i++;
 }
 
