@@ -17,7 +17,7 @@ else if(distance < 100 && fuel >= 25) {
     console.log('will make it');
 }
 
-// let distance = 250;
+// let distance = 250;;
 // let fuel = 100;
 
 // these are boolean variables
